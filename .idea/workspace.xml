@@ -1,7 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="" />
+    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/twitter-step-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter-step-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/twitter-nlp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/twitter-nlp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257267884294144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257279028510721.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257280974811137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257284300922880.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257287551508480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257290198044672.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257296372006912.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257302659260416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257304093806593.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257309391171585.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257313354866688.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257318379573249.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257323265970177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257329565786112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974257329960087552.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663488021901312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663488919531521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663489011814401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663489234104320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663489859018753.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663490655981570.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663492354453504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663493063454720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663494133051392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663494665633792.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663496263782402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663496502722560.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663498499174401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663500885823488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663504467767296.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663506682417153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663507823087618.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663508859195392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663509366788097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663513292574720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663515091996673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663515326832640.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663515377225728.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663517067345921.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663519089119232.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663520410365952.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663521639288834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663521643520000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663524407545857.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663525292494848.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663526986977281.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663528182198272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663528874377216.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663530313023489.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663532355743744.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663533454557184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663533920006144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663534301851649.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663534435999744.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663538345037824.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663540333268992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663541385986048.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663544007307265.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663544905052163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663544917676032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663545714630658.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663546872135683.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663548109557762.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663548961001472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663549799882752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663551066558464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663551217557507.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663551511080960.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663552110944256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663552538640385.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663553797050368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663555550203906.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663557316009984.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663560080056320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663560281362432.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663560805715968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663562210705409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663563242504192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663563934687232.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663565411061763.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663567919271937.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663568468701185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663568607121408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663571157086208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663571568320512.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663573434707968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663573979979776.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663574009384961.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663574588190727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663574873432064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663575817003009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663576060420096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663576475619328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663576647544833.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663577234804736.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663578144985088.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663578182701056.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663578702708737.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663581043183616.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663581189984256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663581701636099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663583576535041.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663586214588416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663586722275329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663587187888128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663589360537601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663589431713792.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663591008915458.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663591101173761.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663592795607040.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663592892157952.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663592929841152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663593517076480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663595119316992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663597417816064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663597522595850.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663598243971072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663598298619904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663598399283200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663601398145026.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663601423290368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663601620385792.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663601985384451.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663602434166784.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663604149669888.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663609484705793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663610340401154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663610600427521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663610604670976.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663612093648896.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663613033172992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663613310005248.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663614480166912.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663616468307968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663618775175168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663619173650433.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663619207024641.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663619270070273.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663619513405440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663622008999936.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663625217662976.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663625792282624.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663628334002176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663630066274309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663632826064897.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663635212611584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663636642947072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663637494362112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663637838254085.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663639465590784.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663642133221378.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663642464575488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663643022446593.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663643429244930.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663644817522688.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663647531356163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663648982519808.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663649414524929.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663649460719616.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663651775975424.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663652266651648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663652870643720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663654250614784.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663656058294272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663656083517441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663660667916288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663660697210880.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663661972320256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663661980545024.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663663339503617.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/step2/974663663759052800.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter-step-0.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter-step-0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter-step-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter-step-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter-step-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter-step-2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,15 +190,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_2.coverage" NAME="twitter-step-2 Coverage Results" MODIFIED="1523181658125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_1__1_.coverage" NAME="twitter-step-1 (1) Coverage Results" MODIFIED="1523477469028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$connection.coverage" NAME="connection Coverage Results" MODIFIED="1523477530154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/urllib3" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_2__1_.coverage" NAME="twitter-step-2 (1) Coverage Results" MODIFIED="1523517529846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_1.coverage" NAME="twitter-step-1 Coverage Results" MODIFIED="1523520109270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_3.coverage" NAME="twitter-step-3 Coverage Results" MODIFIED="1523477379354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$streaming.coverage" NAME="streaming Coverage Results" MODIFIED="1523386665735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/tweepy" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_3__1_.coverage" NAME="twitter-step-3 (1) Coverage Results" MODIFIED="1523477422213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_0.coverage" NAME="twitter-step-0 Coverage Results" MODIFIED="1523520422240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitter_nlp$twitter_step_2.coverage" NAME="twitter-step-2 Coverage Results" MODIFIED="1523517858618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="twitter-step-0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#46#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="twitter-step-1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="210">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#46#77#0" expanded="true" />
               </folding>
@@ -26,38 +226,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter-step-0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="38" column="13" selection-start-line="38" selection-end-line="39" />
-              <folding>
-                <element signature="e#46#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="974663488919531521.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663488919531521.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="974663489859018753.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663489859018753.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="974663500885823488.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663500885823488.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="twitter-step-2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitter-step-2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="295">
+              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
               <folding>
                 <element signature="e#45#69#0" expanded="true" />
               </folding>
@@ -65,12 +238,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="twitter-step-3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter-step-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="e#45#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter-step-4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter-step-4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+              <folding>
+                <element signature="e#45#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,9 +277,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/twitter-step-0.py" />
         <option value="$PROJECT_DIR$/twitter-step-1.py" />
         <option value="$PROJECT_DIR$/twitter-step-2.py" />
+        <option value="$PROJECT_DIR$/twitter-step-3.py" />
+        <option value="$PROJECT_DIR$/twitter-step-4.py" />
+        <option value="$PROJECT_DIR$/twitter-step-0.py" />
       </list>
     </option>
   </component>
@@ -101,6 +302,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,26 +310,15 @@
               <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
               <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
-              <item name="nlp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
-              <item name="tweets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/___/dars/twitter-nlp" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -142,7 +333,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.twitter-step-2">
+  <component name="RunManager" selected="Python.twitter-step-0">
+    <configuration name="connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="twitter-nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/urllib3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="twitter-step-0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="twitter-nlp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +391,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="twitter-step-2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="twitter-nlp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/twitter-step-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="twitter-step-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="twitter-nlp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,15 +430,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.twitter-step-0" />
       <item itemvalue="Python.twitter-step-1" />
+      <item itemvalue="Python.connection" />
       <item itemvalue="Python.twitter-step-2" />
+      <item itemvalue="Python.twitter-step-2 (1)" />
+      <item itemvalue="Python.twitter-step-0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.twitter-step-2" />
-        <item itemvalue="Python.twitter-step-1" />
         <item itemvalue="Python.twitter-step-0" />
+        <item itemvalue="Python.twitter-step-1" />
+        <item itemvalue="Python.twitter-step-2" />
+        <item itemvalue="Python.twitter-step-2 (1)" />
+        <item itemvalue="Python.connection" />
       </list>
     </recent_temporary>
   </component>
@@ -228,30 +461,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329653" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,11 +491,65 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+    <entry file="file://E:/twitter-step-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="476">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#45#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#45#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="13" selection-start-line="38" selection-end-line="39" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974257313354866688.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="13" selection-start-line="38" selection-end-line="39" />
           <folding>
             <element signature="e#46#77#0" expanded="true" />
           </folding>
@@ -273,16 +558,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="153">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974257313354866688.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" lean-forward="true" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="13" selection-start-line="38" selection-end-line="39" />
           <folding>
-            <element signature="e#45#69#0" expanded="true" />
+            <element signature="e#46#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974257313354866688.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" lean-forward="true" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -324,44 +655,90 @@
     <entry file="file://$PROJECT_DIR$/nlp/step2/974178694980915200.txt" />
     <entry file="file://$PROJECT_DIR$/nlp/step2/974178778338549761.txt" />
     <entry file="file://$PROJECT_DIR$/../twitter-persian-nlp/README.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663488919531521.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663489859018753.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-16/974663500885823488.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974257313354866688.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="38" column="13" selection-start-line="38" selection-end-line="39" />
+        <state>
+          <caret column="84" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/tweepy/streaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1868">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="145" column="42" selection-start-line="145" selection-start-column="42" selection-end-line="145" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/twitter-step-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/twitter-step-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/twitter-step-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding>
-            <element signature="e#46#77#0" expanded="true" />
+            <element signature="e#45#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+    <entry file="file://$PROJECT_DIR$/twitter-step-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="550">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           <folding>
-            <element signature="e#46#77#0" expanded="true" />
+            <element signature="e#45#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="295">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
           <folding>
             <element signature="e#45#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
