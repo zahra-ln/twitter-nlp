@@ -1,4 +1,4 @@
- # -*- coding: utf-8 -*-import twitter_config
+# -*- coding: utf-8 -*-import twitter_config
 
 from tweepy import OAuthHandler
 from tweepy import Stream

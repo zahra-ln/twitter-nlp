@@ -28,4 +28,4 @@ for dirpath, dirs, files in os.walk('tweets'):
                     f.write(tweet)
 
 
-print(str(counter))
+            print(str(counter))

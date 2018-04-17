@@ -29,4 +29,4 @@ f = codecs.open(os.path.join(Tweet_Step3, "word-frequency.txt"), 'w', encoding="
 
 sortedKeys.reverse()
 for k in sortedKeys:
-f.write(str(k) + " : " + str(wordcount[k]) + "\n")
+   f.write(str(k) + " : " + str(wordcount[k]) + "\n")
